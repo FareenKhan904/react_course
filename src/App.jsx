@@ -13,7 +13,7 @@ function decrement(){
     {setcount(count -1)}
 
    else{ 
-    alert("Count cannot be less than zero.")
+    alert("Cannot count less than zero.")
   }
 }
 
